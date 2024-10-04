@@ -1,0 +1,501 @@
+children,days_employed,dob_years,education,education_id,family_status,family_status_id,gender,income_type,debt,total_income,purpose
+0,-191.16775996821264,56,secondary education,1,married,0,M,employee,0,138653.74879258065,cars
+0,-2319.817258826756,58,secondary education,1,unmarried,4,F,employee,0,123152.62717650116,purchase of the house
+1,-2990.578297333049,34,masters degree,0,civil partnership,1,M,partner,0,232380.73716652268,wedding ceremony
+0,-926.2094522361944,28,secondary education,1,unmarried,4,F,employee,0,210617.0866011121,getting higher education
+0,-2524.3021055903064,42,SECONDARY EDUCATION,1,married,0,F,employee,0,78487.54021924251,purchase of a car
+0,,28,masters degree,0,married,0,M,partner,0,,buy residential real estate
+0,-5000.830629888028,0,secondary education,1,civil partnership,1,F,partner,0,83019.10674012247,wedding ceremony
+0,-574.9959234695825,40,secondary education,1,married,0,F,employee,0,161158.80630789482,cars
+2,,33,secondary education,1,married,0,F,employee,0,,to become educated
+1,-713.1402310020395,48,secondary education,1,married,0,M,partner,0,177474.88599468113,property renovation
+-1,350340.7602243565,28,secondary education,1,divorced,3,F,retiree,0,52872.993653564365,cars
+0,-1643.7651306321554,35,secondary education,1,unmarried,4,F,employee,0,176100.09957230755,to buy a car
+0,377539.5779498415,64,masters degree,0,civil partnership,1,F,retiree,0,100821.2747346412,to have a wedding
+2,,27,secondary education,1,married,0,M,employee,0,,buying my own car
+0,381265.7805750804,70,secondary education,1,married,0,F,retiree,0,57179.69685747656,university education
+0,,63,secondary education,1,married,0,F,retiree,0,,car
+0,-539.778603284493,22,bachelor degree,2,unmarried,4,M,civil servant,0,114050.8112533262,buy residential real estate
+0,-644.2844504930234,32,secondary education,1,married,0,F,employee,0,72789.43517239229,buying property for renting out
+2,-6138.955641033004,37,masters degree,0,civil partnership,1,F,partner,0,151485.0434377122,transactions with the residential real estate
+0,-5240.661098259468,39,secondary education,1,civil partnership,1,F,employee,0,108881.65420079224,having a wedding
+0,346476.302730614,51,secondary education,1,married,0,F,retiree,0,129408.616660903,buying property for renting out
+0,-598.7496484841596,32,secondary education,1,unmarried,4,M,employee,0,139172.7452470258,buy residential real estate
+0,-1571.6641759754834,44,secondary education,1,married,0,F,civil servant,0,62400.06727295597,profile education
+20,-880.2211129921285,21,secondary education,1,married,0,M,partner,0,145334.86500212265,purchase of the house
+0,-206.01336775617528,25,masters degree,0,unmarried,4,F,employee,0,134589.03547031266,buying my own car
+0,-1672.1925562755828,39,masters degree,0,civil partnership,1,M,partner,0,226912.7154740593,construction of own property
+1,-3819.6018937914337,54,secondary education,1,divorced,3,F,employee,0,138783.70780510234,to own a car
+0,-754.7320958331245,42,masters degree,0,civil partnership,1,F,partner,0,86908.62360004071,to have a wedding
+1,-3986.5444345302026,40,secondary education,1,married,0,M,partner,0,208968.20852852784,purchase of the house
+0,-900.6786892207554,44,secondary education,1,unmarried,4,M,employee,0,92377.78239927597,buy commercial real estate
+0,,54,secondary education,1,widow / widower,2,F,partner,0,,profile education
+0,,61,secondary education,1,married,0,F,retiree,0,,real estate transactions
+0,-1108.7605152518925,27,masters degree,0,unmarried,4,M,civil servant,0,140603.29077239978,property renovation
+0,-451.5802832823376,43,secondary education,1,civil partnership,1,F,employee,1,110396.61025124694,second-hand car purchase
+1,-799.0325647441197,25,Secondary Education,1,married,0,M,employee,0,131795.52697579475,to own a car
+0,-1366.798471273764,37,secondary education,1,married,0,M,employee,1,113609.51026869372,to get asupplementary education
+1,-5522.55639869334,39,secondary education,1,civil partnership,1,F,employee,0,289999.0542954623,having a wedding
+0,-2707.189442617745,40,Secondary Education,1,unmarried,4,M,employee,0,225048.5839443149,buy commercial real estate
+0,-1720.262629544599,47,MASTERS DEGREE,0,married,0,M,employee,0,101595.04690002864,purchase of a car
+0,-1364.7903194075593,28,masters degree,0,married,0,M,partner,0,584826.4704160743,buying a second-hand car
+3,-847.9931184836374,32,masters degree,0,married,0,F,employee,0,160423.71374323426,to get asupplementary education
+0,-282.8913410459156,24,secondary education,1,married,0,M,employee,0,154625.20402671414,property renovation
+0,-1166.2167892247894,35,secondary education,1,married,0,F,employee,0,250986.142309444,purchase of the house
+0,358184.61294375977,53,secondary education,1,civil partnership,1,F,retiree,0,514055.33762844966,having a wedding
+0,382339.2225082472,58,secondary education,1,widow / widower,2,F,retiree,0,338811.9130818141,education
+0,389358.4088143822,51,masters degree,0,civil partnership,1,F,retiree,0,87536.88126483916,having a wedding
+0,-92.81548667546843,26,secondary education,1,married,0,F,employee,0,145901.56260803586,transactions with my real estate
+0,-4239.170761002125,54,secondary education,1,married,0,F,employee,0,61793.349126174864,second-hand car purchase
+0,-4442.734387058113,50,secondary education,1,divorced,3,M,employee,0,54241.95263659982,cars
+0,,58,Primary Education,3,widow / widower,2,F,retiree,0,,to get asupplementary education
+0,-485.2852569016878,53,secondary education,1,married,0,M,employee,0,172900.2013646851,to buy a car
+0,-140.93526507232582,28,Secondary Education,1,unmarried,4,F,partner,0,65326.84619614875,getting higher education
+1,-1980.723261135068,34,secondary education,1,married,0,M,employee,1,187583.08533207173,buying my own car
+0,-3402.712740801633,47,secondary education,1,married,0,F,employee,0,88509.05536646959,purchase of my own house
+1,-1403.5775013983796,33,masters degree,0,married,0,M,employee,0,198487.5437495112,cars
+0,-13067.450761331202,57,secondary education,1,married,0,M,employee,0,199507.42274158468,purchase of my own house
+0,-2184.737484598769,47,masters degree,0,married,0,F,employee,0,59948.89923551898,car purchase
+2,-623.6179247237885,36,Masters Degree,0,married,0,M,partner,0,360163.4857330849,real estate transactions
+0,-3259.2028192727885,60,secondary education,1,unmarried,4,M,employee,0,96490.43789544396,purchase of my own house
+0,,46,masters degree,0,married,0,M,employee,0,,building a real estate
+0,-1851.032232460012,54,secondary education,1,widow / widower,2,F,employee,0,138940.69252394146,construction of own property
+1,,30,masters degree,0,civil partnership,1,M,employee,0,,to have a wedding
+0,-1264.8458021870724,40,SECONDARY EDUCATION,1,married,0,F,employee,0,52742.95014272392,profile education
+2,-2874.5809036977503,44,secondary education,1,civil partnership,1,F,partner,0,168093.5280464526,purchase of my own house
+0,-4487.420433202849,51,secondary education,1,unmarried,4,F,employee,0,249392.89754859105,getting an education
+0,-959.988211197968,42,secondary education,1,married,0,F,partner,0,329735.2719107878,buy commercial real estate
+1,-1064.5600753307042,29,secondary education,1,civil partnership,1,M,employee,0,263750.5698658811,to have a wedding
+0,360212.6619772644,59,secondary education,1,married,0,M,retiree,0,90124.04172877395,purchase of a car
+1,-3144.3039972860606,36,secondary education,1,civil partnership,1,F,employee,0,69374.47979882678,wedding ceremony
+0,,27,secondary education,1,civil partnership,1,F,employee,0,,property renovation
+2,,34,secondary education,1,civil partnership,1,F,employee,0,,wedding ceremony
+0,371660.6327701825,60,SECONDARY EDUCATION,1,married,0,F,retiree,0,354464.19640387275,getting an education
+0,-1136.4377559821844,23,masters degree,0,civil partnership,1,M,employee,0,186496.8744273173,buying property for renting out
+0,-2237.727252167104,28,bachelor degree,2,unmarried,4,M,employee,0,350328.7134063261,transactions with the residential real estate
+0,-1267.6713663820856,40,secondary education,1,widow / widower,2,F,partner,0,86160.11278251371,buying my own car
+0,332954.0348071523,71,secondary education,1,unmarried,4,F,retiree,0,57606.998422589786,transactions with the residential real estate
+0,338945.61184631806,60,secondary education,1,married,0,F,retiree,0,78935.74279478926,second-hand car purchase
+1,-1277.4000077176793,29,masters degree,0,married,0,M,employee,0,183577.63454899887,profile education
+1,-130.72172374276974,28,masters degree,0,married,0,F,employee,0,246895.7039754085,purchase of a car
+2,-317.80259338617816,36,secondary education,1,married,0,F,employee,0,76120.96016037598,purchase of my own house
+0,-1193.3374471058064,29,masters degree,0,unmarried,4,M,employee,0,200905.4705212369,buy commercial real estate
+0,-1601.7842309306882,31,secondary education,1,unmarried,4,M,employee,0,66592.5481067054,purchase of the house
+0,-631.9352500519261,44,secondary education,1,civil partnership,1,F,employee,0,76167.84301512338,having a wedding
+0,-787.3896896298108,24,secondary education,1,unmarried,4,F,partner,1,112763.36529549464,housing transactions
+0,-1061.727117800886,32,secondary education,1,civil partnership,1,F,employee,0,88755.7775424815,to have a wedding
+2,-2727.188165670608,35,secondary education,1,married,0,M,employee,0,124373.9498678714,building a real estate
+0,,67,secondary education,1,married,0,F,retiree,0,,supplementary education
+2,-4863.710732059039,31,secondary education,1,married,0,F,employee,1,81296.35452050317,purchase of my own house
+1,-859.7430116380307,26,secondary education,1,married,0,M,employee,1,44577.78360940806,buying a second-hand car
+2,-349.7828529905993,45,secondary education,1,married,0,F,employee,0,79564.65457591621,purchase of my own house
+0,-2158.3853871985707,37,secondary education,1,married,0,F,employee,1,121420.76913913852,transactions with the residential real estate
+1,-810.9006017615736,21,bachelor degree,2,married,0,F,partner,0,130380.42451699494,to buy a car
+0,-2477.202992527333,50,MASTERS DEGREE,0,divorced,3,F,employee,0,191275.70466902945,transactions with the residential real estate
+0,,47,masters degree,0,divorced,3,F,employee,0,,buying property for renting out
+2,-2575.925224433201,29,secondary education,1,civil partnership,1,M,partner,0,417001.52310394135,having a wedding
+0,-3955.730197299653,57,secondary education,1,civil partnership,1,F,employee,0,307295.0712708117,to have a wedding
+0,389110.6542883284,61,secondary education,1,civil partnership,1,F,retiree,0,79725.21332809949,construction of own property
+0,-182.5514770765924,37,masters degree,0,married,0,M,employee,0,220627.6305894327,to become educated
+1,-1798.9515963867843,37,secondary education,1,married,0,F,employee,0,199950.14407476253,purchase of the house for my family
+0,-3344.5537350971863,29,masters degree,0,unmarried,4,M,civil servant,0,292208.5426794379,building a real estate
+0,-2305.443349397125,41,secondary education,1,unmarried,4,F,partner,0,163478.33590321126,profile education
+0,-6693.809114919824,53,secondary education,1,civil partnership,1,F,employee,0,152030.05117037243,construction of own property
+0,,38,secondary education,1,married,0,M,civil servant,0,,housing transactions
+1,-670.44887229888,29,secondary education,1,married,0,M,employee,1,142495.36449839608,cars
+1,-4635.286424032068,35,secondary education,1,married,0,F,employee,0,72772.93873266567,cars
+0,-1440.5722016098985,59,secondary education,1,civil partnership,1,F,employee,1,170508.39128469312,having a wedding
+1,-367.75816528596914,34,secondary education,1,married,0,M,employee,0,128461.92313986212,building a real estate
+0,,64,secondary education,1,civil partnership,1,F,civil servant,0,,wedding ceremony
+0,-241.90092889567265,36,SECONDARY EDUCATION,1,married,0,M,employee,0,160528.6662867175,property renovation
+1,-129.7348261151852,26,secondary education,1,unmarried,4,F,partner,1,138623.5956314271,to own a car
+0,341045.98889803496,49,secondary education,1,married,0,M,retiree,0,59660.789671976425,property renovation
+0,-4394.888904412534,42,secondary education,1,married,0,M,employee,0,284998.19758281624,real estate transactions
+3,,37,masters degree,0,civil partnership,1,M,partner,0,,going to university
+1,-476.5542903636682,40,secondary education,1,married,0,M,partner,0,170206.9887733151,to own a car
+0,-3616.680375143969,46,masters degree,0,unmarried,4,F,partner,1,257107.78295788364,supplementary education
+0,362740.3861871935,58,masters degree,0,married,0,M,retiree,1,106723.78628169707,second-hand car purchase
+1,-2913.2232804050154,39,secondary education,1,married,0,F,employee,0,130075.35692016035,housing transactions
+1,-5697.690588976036,39,primary education,3,married,0,M,employee,0,199833.08606768167,to become educated
+1,-1744.189645415004,34,secondary education,1,married,0,F,partner,0,136444.68585967438,to get asupplementary education
+0,-2816.490669816084,51,secondary education,1,married,0,F,partner,0,153309.22521999897,car
+0,399926.1711116827,68,secondary education,1,married,0,F,retiree,0,123508.90681929846,university education
+0,-4429.888222311743,48,secondary education,1,civil partnership,1,F,employee,0,84475.31867088561,having a wedding
+0,-6153.094678230146,52,secondary education,1,divorced,3,F,employee,0,186092.8999442861,housing transactions
+1,-6320.653030174664,35,secondary education,1,married,0,M,employee,0,187064.52881609407,housing transactions
+0,-8610.477700040878,44,secondary education,1,married,0,F,employee,0,135967.4396394946,transactions with the residential real estate
+0,363612.4384980944,56,Secondary Education,1,married,0,F,retiree,0,103093.00841590171,going to university
+0,-1331.1702287017613,31,secondary education,1,married,0,F,employee,0,123135.17347936134,profile education
+0,345450.35655953287,56,secondary education,1,civil partnership,1,M,retiree,0,195580.2028302092,to own a car
+1,-1229.344300890225,43,secondary education,1,married,0,F,employee,1,144938.3238409673,buy residential real estate
+0,-1935.49032880494,41,masters degree,0,civil partnership,1,M,employee,0,446201.5111810576,to have a wedding
+0,-2421.051638869794,55,secondary education,1,civil partnership,1,F,civil servant,0,88787.58199670404,having a wedding
+0,-2828.701927984344,57,secondary education,1,divorced,3,M,partner,0,78783.81633712049,buying a second-hand car
+0,-1276.714948013143,47,masters degree,0,married,0,F,partner,0,388651.737312858,to become educated
+0,-973.8960250291724,46,masters degree,0,married,0,F,employee,0,154815.57430209624,purchase of my own house
+1,-1150.3430459002066,53,secondary education,1,married,0,F,partner,0,225790.3949259201,buy residential real estate
+1,-1296.8412856935938,51,secondary education,1,civil partnership,1,F,civil servant,0,283642.24759211025,having a wedding
+0,-683.0684484420659,29,masters degree,0,married,0,M,partner,0,171781.97856588275,property
+1,,41,secondary education,1,civil partnership,1,F,partner,0,,building a property
+0,-14240.932399924128,53,Secondary Education,1,married,0,M,partner,0,174484.33349021495,purchase of the house for my family
+0,382967.9318541479,65,secondary education,1,married,0,F,retiree,0,79077.36536979019,to get asupplementary education
+0,-7635.348741394057,44,secondary education,1,unmarried,4,F,employee,0,95520.74873909072,property renovation
+1,,33,masters degree,0,married,0,M,employee,0,,housing transactions
+1,-1307.7322722067172,27,secondary education,1,married,0,F,partner,0,205953.3074549138,car
+2,-172.1519548913122,33,masters degree,0,civil partnership,1,F,partner,0,207035.14251894684,car purchase
+0,-914.3914285924968,42,masters degree,0,married,0,F,partner,0,322807.77660314646,purchase of my own house
+0,357494.99494376726,61,masters degree,0,widow / widower,2,F,retiree,0,347944.57383987005,buying property for renting out
+0,-2744.700043008353,39,masters degree,0,married,0,F,partner,0,142631.42583005756,property
+1,-436.89109692425,42,masters degree,0,married,0,F,partner,0,153430.7773831827,purchase of the house for my family
+0,-3796.332731105088,33,secondary education,1,married,0,M,employee,0,212887.3996077848,buy commercial real estate
+0,,38,secondary education,1,civil partnership,1,F,employee,0,,building a real estate
+0,-580.9279457541769,31,bachelor degree,2,unmarried,4,M,employee,0,122217.28772059684,property renovation
+0,-1084.7036256250149,46,masters degree,0,married,0,F,employee,0,117814.75724434972,profile education
+0,353586.58202876133,55,secondary education,1,married,0,F,retiree,0,213119.34334174925,getting higher education
+2,-926.3949951032675,35,masters degree,0,civil partnership,1,F,partner,0,129571.45144442968,housing
+1,,39,secondary education,1,civil partnership,1,F,partner,0,,buy real estate
+2,,41,secondary education,1,married,0,F,employee,0,,buy real estate
+0,-1808.7772465687824,50,masters degree,0,married,0,F,employee,0,70156.99961849478,buying a second-hand car
+2,-205.5656463724749,28,secondary education,1,married,0,F,partner,1,114414.51235665736,property renovation
+0,-660.1794490014038,50,secondary education,1,civil partnership,1,F,employee,0,132937.53932369006,to have a wedding
+1,-8088.306995600427,40,secondary education,1,married,0,F,civil servant,0,49634.2017798625,purchase of my own house
+0,-885.0430205820783,21,Secondary Education,1,unmarried,4,F,partner,0,149039.44276679895,getting an education
+0,-472.0891094036631,43,masters degree,0,civil partnership,1,F,partner,0,63581.798589439255,to own a car
+0,385905.9209209653,60,secondary education,1,widow / widower,2,F,retiree,0,274834.4394714215,buying my own car
+0,-684.1356565093748,22,secondary education,1,unmarried,4,M,partner,1,264878.7862458867,second-hand car purchase
+0,-3366.2260559882952,65,secondary education,1,widow / widower,2,F,partner,0,86047.51337316787,buy commercial real estate
+0,,61,secondary education,1,unmarried,4,F,retiree,0,,purchase of the house
+1,-182.181735229414,31,masters degree,0,married,0,F,partner,0,242608.558493722,car
+1,-1224.9252954788672,32,MASTERS DEGREE,0,civil partnership,1,M,partner,0,136640.56016458466,having a wedding
+1,-1362.0417275002387,26,SECONDARY EDUCATION,1,married,0,F,employee,0,100780.496748708,buying my own car
+0,-100.11597850058102,51,secondary education,1,married,0,M,partner,0,118824.53525034744,purchase of my own house
+0,-250.75261297593968,57,secondary education,1,unmarried,4,M,partner,0,215701.40221245613,transactions with my real estate
+0,-388.02306530633547,59,secondary education,1,civil partnership,1,F,partner,0,137849.99385440355,to have a wedding
+0,-2595.010031788787,59,secondary education,1,married,0,M,employee,1,166396.86954355464,to get asupplementary education
+0,369917.6852780496,55,masters degree,0,married,0,F,retiree,0,99420.12285419268,housing
+0,-5183.690696346062,63,secondary education,1,married,0,F,employee,0,280673.1898482788,housing transactions
+0,335416.3232424605,53,masters degree,0,married,0,F,retiree,0,116720.91539231548,building a real estate
+0,-231.06197339772808,40,secondary education,1,married,0,M,employee,0,224554.39302076696,property renovation
+1,-1264.6270312063607,28,masters degree,0,married,0,M,employee,0,227231.4542821193,getting higher education
+0,-5350.899105547299,48,secondary education,1,married,0,F,employee,0,113907.67632457256,housing
+0,-7118.429277824821,58,SECONDARY EDUCATION,1,married,0,F,employee,0,125415.15302952836,building a property
+1,-246.5845914839772,21,secondary education,1,civil partnership,1,F,partner,0,85178.9068882226,property renovation
+0,-2948.695603947209,40,secondary education,1,married,0,F,employee,0,64285.518100269815,going to university
+0,-3123.3956903193816,36,masters degree,0,divorced,3,F,civil servant,0,243094.5316656339,second-hand car purchase
+0,-468.3576108199248,37,secondary education,1,married,0,F,employee,0,107650.6158239421,buying a second-hand car
+1,-3120.9213943171694,36,bachelor degree,2,unmarried,4,M,partner,0,506283.9635659854,building a real estate
+0,-2869.110821359649,28,masters degree,0,married,0,M,employee,0,221211.6545447393,cars
+1,,29,masters degree,0,married,0,F,employee,0,,buying a second-hand car
+0,330106.77111492713,62,secondary education,1,married,0,F,retiree,0,114119.84919822717,to buy a car
+0,-874.7505442057088,51,secondary education,1,divorced,3,M,employee,0,79799.14896105207,property renovation
+1,-1539.304174090012,23,secondary education,1,unmarried,4,M,employee,0,115695.74413373775,to become educated
+1,-1057.9299796739522,31,masters degree,0,married,0,M,employee,0,249969.1278550377,buying my own car
+1,-1717.5986534263363,44,secondary education,1,civil partnership,1,F,employee,0,262796.54172161565,second-hand car purchase
+0,-2177.391045076951,25,masters degree,0,married,0,F,partner,0,89634.83925715242,second-hand car purchase
+0,-3876.567835293706,37,secondary education,1,married,0,M,partner,0,297594.7028567981,building a real estate
+0,-1464.7975167440404,27,secondary education,1,unmarried,4,M,employee,0,141919.33213294926,real estate transactions
+0,337262.4186563666,60,secondary education,1,married,0,F,retiree,0,163672.27487065378,buy commercial real estate
+0,-604.7905826662128,54,secondary education,1,married,0,M,partner,0,190391.3064742185,profile education
+2,-161.43545518969606,26,masters degree,0,civil partnership,1,F,employee,0,74832.68651489742,purchase of a car
+0,-1560.0316415909365,43,secondary education,1,married,0,F,employee,0,167357.01819210558,cars
+0,-1487.0260385551712,23,secondary education,1,unmarried,4,M,employee,0,91789.00502583572,education
+0,343488.63869946013,61,secondary education,1,married,0,F,retiree,0,95195.98332683092,to become educated
+1,-1050.936670317417,33,masters degree,0,civil partnership,1,M,employee,0,142539.24969663724,to have a wedding
+0,358669.1684064715,51,secondary education,1,civil partnership,1,F,retiree,0,185432.39296312816,to have a wedding
+0,396641.8108931517,66,secondary education,1,widow / widower,2,F,retiree,0,96186.39068843125,buy commercial real estate
+2,-493.36853456728255,39,secondary education,1,married,0,F,employee,0,144533.1624725449,building a property
+0,-3707.260054839897,27,secondary education,1,unmarried,4,M,employee,0,148907.08338665994,university education
+0,-181.4424379195772,50,secondary education,1,unmarried,4,F,partner,0,134530.9260674817,property renovation
+1,-1172.0243480034214,30,MASTERS DEGREE,0,divorced,3,F,employee,0,97260.68153821498,purchase of the house for my family
+0,-1726.385656034663,34,masters degree,0,civil partnership,1,F,employee,0,176192.52451289585,to have a wedding
+2,-3890.0367791335298,40,MASTERS DEGREE,0,civil partnership,1,F,civil servant,0,162361.42604771192,having a wedding
+1,,43,secondary education,1,married,0,M,employee,0,,to become educated
+0,-1188.0665580537805,41,MASTERS DEGREE,0,married,0,F,partner,0,286880.1164707103,getting an education
+0,-1623.8266714817137,24,secondary education,1,unmarried,4,F,partner,0,125887.74581973565,buy residential real estate
+1,-1292.221017974213,30,masters degree,0,married,0,F,civil servant,0,192785.7549654157,getting higher education
+1,-1545.885181971459,35,bachelor degree,2,civil partnership,1,M,employee,0,151942.6221424401,to have a wedding
+1,-360.96468434323685,25,bachelor degree,2,civil partnership,1,F,employee,0,67802.90826961596,building a property
+1,-1395.185101896117,34,secondary education,1,married,0,M,employee,0,198060.6856699524,construction of own property
+0,360122.52491786674,64,secondary education,1,married,0,M,retiree,0,62136.9915848955,going to university
+0,336412.21467703965,61,secondary education,1,widow / widower,2,F,retiree,0,87325.38180248118,car
+0,395196.98448241904,61,secondary education,1,married,0,F,retiree,0,55872.70891099466,construction of own property
+3,-5931.6267843102905,34,secondary education,1,married,0,F,employee,0,175210.49451727315,supplementary education
+0,-5797.457571366695,53,secondary education,1,married,0,F,partner,0,54526.40232275568,to own a car
+1,-2354.199528460473,47,secondary education,1,married,0,F,employee,0,153097.94423296532,transactions with my real estate
+3,,40,secondary education,1,married,0,M,employee,1,,property renovation
+0,366620.4002823878,49,secondary education,1,civil partnership,1,F,retiree,0,65180.95955613608,to own a car
+0,390878.8516730853,60,SECONDARY EDUCATION,1,divorced,3,F,retiree,0,68563.68282370892,housing transactions
+1,,26,secondary education,1,civil partnership,1,M,employee,1,,wedding ceremony
+0,-2002.2867949266729,47,secondary education,1,married,0,F,partner,0,159993.12001585565,building a real estate
+0,-1964.8819993823752,34,masters degree,0,married,0,F,employee,0,262430.538345734,property
+0,-1441.5463146557463,38,SECONDARY EDUCATION,1,married,0,M,employee,0,204705.6189644074,purchase of the house
+0,-3495.743551237992,33,secondary education,1,married,0,F,employee,0,79017.75471030334,buying property for renting out
+0,-1106.4970529125972,48,masters degree,0,civil partnership,1,M,employee,0,61615.035218933976,to have a wedding
+0,,21,Masters Degree,0,civil partnership,1,M,partner,0,,cars
+0,-1165.2872264898226,38,masters degree,0,married,0,F,civil servant,0,182732.4168291597,university education
+1,-4746.367280687095,35,Secondary Education,1,divorced,3,F,employee,0,54354.32871944269,property
+1,-1911.6092692969944,29,SECONDARY EDUCATION,1,married,0,F,civil servant,0,94160.66955831232,property renovation
+1,-1199.4650836459016,38,Secondary Education,1,married,0,M,employee,0,198088.6832267408,building a property
+0,-5424.530359331664,55,secondary education,1,married,0,M,employee,0,130314.78988851616,buy residential real estate
+0,-1572.3768097732725,44,masters degree,0,married,0,M,partner,0,240256.1122816867,building a property
+0,394164.9166680501,66,secondary education,1,divorced,3,F,retiree,0,112522.28161202325,supplementary education
+3,,0,secondary education,1,married,0,M,employee,0,,transactions with the residential real estate
+1,-618.5514794137875,30,secondary education,1,civil partnership,1,F,employee,0,116787.65458751137,to buy a car
+0,-200.8047839637053,22,secondary education,1,civil partnership,1,M,employee,0,119488.84743741846,property
+2,-4378.305189702902,44,secondary education,1,civil partnership,1,F,employee,0,82520.15514301589,having a wedding
+0,-5089.478514908919,60,secondary education,1,married,0,M,partner,0,119485.40881706368,buying property for renting out
+2,-211.3321064357295,33,secondary education,1,unmarried,4,F,employee,0,98522.59378474717,purchase of a car
+1,-1530.041114807549,25,masters degree,0,married,0,F,partner,0,154511.89690673107,purchase of my own house
+1,,43,secondary education,1,married,0,M,employee,0,,to become educated
+0,375718.66920488025,71,secondary education,1,married,0,M,retiree,0,65283.21147706287,to become educated
+0,350620.3195986601,53,secondary education,1,married,0,F,retiree,0,109615.95056869846,buy residential real estate
+0,362864.99302248046,63,secondary education,1,married,0,F,retiree,0,200736.2131335428,profile education
+2,-4588.626216235163,32,secondary education,1,married,0,M,employee,0,264301.2897933889,building a property
+0,-11837.560300242463,58,secondary education,1,married,0,F,employee,0,175084.22663252815,construction of own property
+0,-4488.067031277062,35,secondary education,1,married,0,F,employee,0,104660.44920263148,transactions with my real estate
+1,-1573.6448495889435,36,secondary education,1,divorced,3,M,employee,0,143990.78611388945,buy commercial real estate
+0,-1307.3027980897589,22,secondary education,1,unmarried,4,F,employee,0,86575.32959719826,property
+1,,60,masters degree,0,married,0,F,retiree,1,,going to university
+0,-2190.4225325450334,38,secondary education,1,civil partnership,1,M,employee,0,213739.5001541388,car purchase
+0,-741.679971837036,28,masters degree,0,married,0,M,partner,0,207663.06486102665,buying a second-hand car
+2,-1066.040399062177,49,primary education,3,married,0,M,employee,0,36481.86663663932,purchase of my own house
+2,-2824.5429622190227,35,SECONDARY EDUCATION,1,married,0,F,employee,0,72835.77921932943,profile education
+2,-165.84406033363396,40,secondary education,1,married,0,M,partner,0,97352.9475639075,transactions with my real estate
+0,-5645.2343658031,46,secondary education,1,married,0,M,partner,0,142969.27730403727,transactions with the residential real estate
+0,-7801.456674154198,42,masters degree,0,married,0,F,partner,0,83724.28213999883,purchase of the house for my family
+0,,41,secondary education,1,civil partnership,1,F,employee,0,,university education
+0,-1680.8614342320182,31,secondary education,1,married,0,F,employee,0,131710.94157722982,cars
+2,371335.6740450258,64,secondary education,1,divorced,3,F,retiree,0,137339.49979336213,housing
+0,-4368.814888304822,40,secondary education,1,civil partnership,1,F,employee,0,133196.51987883792,wedding ceremony
+0,-622.000317473515,48,secondary education,1,married,0,M,employee,0,218422.2217271604,buying property for renting out
+2,-229.8905072453637,30,secondary education,1,divorced,3,F,employee,0,119834.3705127202,transactions with the residential real estate
+1,,43,secondary education,1,married,0,F,employee,0,,property
+0,-526.4115820841157,41,secondary education,1,civil partnership,1,F,employee,0,173407.08946205952,transactions with my real estate
+2,-3183.969911598345,38,secondary education,1,married,0,F,employee,0,195180.29433248623,going to university
+1,-1315.3500571696966,23,secondary education,1,married,0,F,employee,0,99468.29048429008,buying property for renting out
+1,-247.59966759999733,31,secondary education,1,civil partnership,1,F,employee,0,114077.51878284858,having a wedding
+0,-8200.92055108988,43,Masters Degree,0,civil partnership,1,F,employee,0,329849.82883870177,to have a wedding
+0,-2225.8152133163835,36,secondary education,1,married,0,M,partner,0,696015.5469823107,purchase of my own house
+0,-749.1756772991432,22,secondary education,1,civil partnership,1,M,partner,0,162492.01844851565,profile education
+0,-182.0488104625766,47,masters degree,0,civil partnership,1,F,employee,0,280302.32501539536,to buy a car
+0,376370.67685478687,58,secondary education,1,married,0,F,retiree,0,87320.67646298399,to own a car
+0,-1393.889712876466,57,secondary education,1,divorced,3,M,partner,0,185910.6753910645,construction of own property
+3,,35,secondary education,1,married,0,M,employee,0,,buying property for renting out
+0,-4852.175654465849,0,Masters Degree,0,unmarried,4,M,partner,0,254837.8194937712,purchase of the house
+0,361342.0164791135,59,secondary education,1,married,0,F,retiree,0,73113.85266717616,education
+0,,32,secondary education,1,unmarried,4,M,partner,0,,transactions with my real estate
+2,-927.789271212584,41,primary education,3,married,0,M,employee,1,129873.43977130527,buy residential real estate
+2,,27,secondary education,1,married,0,F,employee,0,,buying property for renting out
+0,-3398.950566639925,42,secondary education,1,married,0,F,partner,0,122307.13933862148,going to university
+2,-1324.5591013925348,32,masters degree,0,married,0,M,employee,0,341733.1351544111,to become educated
+0,-1904.1977387480304,40,MASTERS DEGREE,0,unmarried,4,F,employee,0,96251.93433433314,purchase of the house
+1,-3704.412302694568,42,Masters Degree,0,civil partnership,1,F,employee,0,253744.3196684977,building a property
+0,,60,secondary education,1,married,0,M,employee,0,,buy real estate
+1,-414.6908767045812,31,secondary education,1,married,0,F,partner,0,166853.8188961297,second-hand car purchase
+1,-366.65637046381744,46,masters degree,0,civil partnership,1,F,employee,0,202780.8834718177,building a real estate
+0,-2867.259486431049,55,secondary education,1,civil partnership,1,M,employee,0,108216.70262980754,wedding ceremony
+1,-3224.8420377681978,36,masters degree,0,unmarried,4,M,partner,0,371589.7399600121,to buy a car
+1,-2021.691681643049,28,secondary education,1,married,0,F,partner,0,160355.72010795295,transactions with my real estate
+1,-1989.6774731619755,26,masters degree,0,married,0,F,employee,0,150891.26699634636,transactions with the residential real estate
+-1,-3113.99844887716,31,secondary education,1,civil partnership,1,F,employee,0,54412.056004813225,to own a car
+0,-714.3361082450972,31,secondary education,1,unmarried,4,F,partner,0,126659.37995526158,to buy a car
+0,-3225.9856482558,49,secondary education,1,married,0,F,employee,0,132272.54005727448,transactions with the residential real estate
+1,-1288.0991714576323,37,secondary education,1,civil partnership,1,M,employee,0,173001.87471940517,to have a wedding
+0,,53,secondary education,1,married,0,F,civil servant,0,,getting an education
+0,360097.5468171948,63,secondary education,1,married,0,M,retiree,0,106988.23954598133,to own a car
+1,-1977.4086851242469,30,secondary education,1,married,0,M,employee,0,93043.72271069288,getting higher education
+0,367973.4812433396,63,secondary education,1,civil partnership,1,M,retiree,0,197853.9393481875,purchase of the house
+0,-3040.9765882644765,28,secondary education,1,married,0,M,employee,0,161928.90781225913,university education
+0,-3516.3851300758965,31,Secondary Education,1,married,0,F,employee,0,52876.305931868366,buy real estate
+0,,56,secondary education,1,married,0,F,employee,0,,buy residential real estate
+0,-3077.440904837673,35,secondary education,1,civil partnership,1,M,partner,0,202129.04799959835,to become educated
+2,-4062.261213537107,36,secondary education,1,married,0,F,employee,0,164208.70045127993,education
+0,383504.7952882985,54,secondary education,1,married,0,F,retiree,0,244851.50838119825,buy commercial real estate
+0,-568.9313173832093,53,secondary education,1,unmarried,4,M,employee,0,101027.0713724969,education
+0,,55,secondary education,1,married,0,F,retiree,0,,building a property
+0,,24,secondary education,1,unmarried,4,F,employee,0,,buying my own car
+0,-675.1298969866484,33,secondary education,1,unmarried,4,M,partner,0,133094.25714974102,buying my own car
+0,-1127.0797239264054,44,secondary education,1,married,0,M,employee,0,106392.48867483754,buy real estate
+3,-391.22158186776977,31,secondary education,1,married,0,F,employee,1,122103.6179537358,purchase of the house
+1,346782.5499510521,43,secondary education,1,married,0,M,retiree,0,96126.01419728433,construction of own property
+2,342167.21211236675,55,primary education,3,widow / widower,2,F,retiree,0,160635.12034694868,building a real estate
+0,-1038.4769558683,53,secondary education,1,married,0,M,employee,0,86679.67838962552,buy commercial real estate
+1,-764.6357856933994,58,secondary education,1,unmarried,4,F,employee,0,110963.1665618068,transactions with my real estate
+1,378120.2407527759,55,secondary education,1,married,0,F,retiree,0,135989.32530300654,second-hand car purchase
+0,,0,secondary education,1,married,0,F,employee,0,,housing
+0,-5520.224779917472,57,secondary education,1,married,0,F,employee,1,285006.3005410037,transactions with the residential real estate
+0,-8244.30459055375,66,bachelor degree,2,widow / widower,2,F,employee,0,181212.08611655823,getting higher education
+1,-2541.252295270981,40,secondary education,1,married,0,F,employee,0,157138.18350235073,buy residential real estate
+0,-385.3422670941546,48,secondary education,1,married,0,F,employee,0,202676.72420472905,purchase of the house for my family
+0,-5384.640730978825,42,secondary education,1,married,0,F,partner,0,147739.3076854783,purchase of the house
+0,-1236.5997172067891,64,masters degree,0,married,0,F,partner,0,425534.5398949079,housing transactions
+0,-1100.650364990749,46,secondary education,1,married,0,M,employee,0,180046.42773708672,getting higher education
+0,-1711.4702901765477,29,masters degree,0,married,0,F,partner,1,175870.52425537232,property
+0,-4418.866263047654,47,masters degree,0,divorced,3,F,partner,0,276452.5742047831,purchase of my own house
+1,-3318.396588778109,54,secondary education,1,married,0,M,partner,0,191468.95795824108,buy residential real estate
+2,-1536.2479930914587,42,secondary education,1,unmarried,4,M,employee,0,236698.6581232081,buy real estate
+1,-2393.978447954991,38,secondary education,1,civil partnership,1,M,employee,0,164035.85395990018,having a wedding
+0,354887.971441976,56,Masters Degree,0,unmarried,4,F,retiree,1,142404.27885755035,cars
+0,-133.04137569614858,45,secondary education,1,civil partnership,1,M,employee,0,128543.15403858108,going to university
+1,-1620.4688252781689,39,SECONDARY EDUCATION,1,married,0,F,employee,0,166582.96525061896,building a real estate
+0,-1125.3317986155228,35,secondary education,1,unmarried,4,F,employee,0,130083.360436043,going to university
+0,,29,SECONDARY EDUCATION,1,unmarried,4,M,employee,0,,real estate transactions
+0,-1152.6969343610142,54,secondary education,1,married,0,F,employee,0,169623.85577443356,purchase of the house for my family
+0,348009.4909266336,64,secondary education,1,married,0,F,retiree,0,97597.64957190504,buying a second-hand car
+1,-868.2655626680223,38,secondary education,1,married,0,F,employee,0,159026.126116676,car
+0,-275.4422480642624,44,masters degree,0,civil partnership,1,F,employee,0,149538.448221069,getting higher education
+0,-430.1877150630192,49,SECONDARY EDUCATION,1,civil partnership,1,M,employee,0,101900.8592916446,purchase of the house
+1,-2652.996066310763,58,secondary education,1,married,0,F,partner,0,105892.47088854738,car purchase
+0,398484.86481900286,52,secondary education,1,married,0,F,retiree,0,142529.2260234332,getting an education
+2,-836.7660388133362,31,secondary education,1,married,0,F,civil servant,0,331629.84079985874,buy real estate
+5,-3248.839837397328,36,secondary education,1,married,0,F,partner,0,168460.9269689396,real estate transactions
+2,-1435.8117561387949,35,secondary education,1,married,0,F,employee,0,59827.16140338968,university education
+1,-2886.02864537042,36,secondary education,1,married,0,M,partner,0,187817.05657012903,purchase of the house
+0,,50,secondary education,1,married,0,M,employee,0,,transactions with my real estate
+0,-1689.2595606662942,31,secondary education,1,married,0,M,employee,0,100288.60073269423,property
+1,-5967.789395210835,34,masters degree,0,unmarried,4,F,employee,0,164756.07907551175,construction of own property
+1,342421.0334195059,57,secondary education,1,married,0,M,retiree,0,208140.75670589024,housing
+0,371081.49264221016,55,secondary education,1,civil partnership,1,F,retiree,0,117894.95541767115,real estate transactions
+0,-3168.1589993009693,50,secondary education,1,married,0,F,partner,0,31428.89165201404,real estate transactions
+0,,29,secondary education,1,married,0,M,employee,1,,transactions with my real estate
+1,-2084.330014613451,44,secondary education,1,married,0,M,employee,0,215907.1399201644,housing
+0,-109.34236209897384,53,secondary education,1,unmarried,4,M,employee,0,124770.01706301513,housing transactions
+0,-2146.837532973444,33,secondary education,1,married,0,M,employee,0,200685.1118639023,buy real estate
+0,-398.8259478569328,53,secondary education,1,married,0,F,employee,0,70636.75309582689,buy real estate
+1,-921.5672638596602,39,masters degree,0,married,0,F,employee,0,120864.91915913584,property renovation
+1,,31,Masters Degree,0,unmarried,4,F,civil servant,0,,purchase of the house
+0,-1081.9030730553825,47,secondary education,1,civil partnership,1,F,employee,0,181499.9684764908,buy commercial real estate
+0,-12509.450812157693,58,masters degree,0,widow / widower,2,F,civil servant,0,166708.76878250658,housing transactions
+2,-1292.5356418839465,39,masters degree,0,married,0,F,employee,0,245489.3515524589,housing transactions
+0,,38,masters degree,0,unmarried,4,F,partner,0,,property renovation
+0,,44,secondary education,1,unmarried,4,M,employee,0,,transactions with the residential real estate
+0,-304.9703124469587,51,SECONDARY EDUCATION,1,married,0,F,partner,0,123084.51190011368,housing transactions
+1,-3428.626386041824,28,secondary education,1,civil partnership,1,F,employee,0,98018.38127206116,having a wedding
+0,-3819.629730102064,53,secondary education,1,widow / widower,2,F,employee,0,223256.1891933173,buying property for renting out
+0,-413.27713417699,38,masters degree,0,married,0,F,employee,0,144367.4104383263,buy real estate
+0,-165.48286665802328,27,secondary education,1,unmarried,4,F,partner,0,232078.7049449944,purchase of the house
+0,-1445.3334780290936,41,secondary education,1,civil partnership,1,M,employee,0,292986.295164435,profile education
+2,-2746.0491118145537,32,masters degree,0,married,0,F,partner,0,115657.04084104885,purchase of a car
+0,-2954.331002741105,47,secondary education,1,married,0,M,employee,0,83552.05234633057,purchase of the house
+1,-2202.214302515755,41,masters degree,0,married,0,F,partner,0,198691.62421424288,buying my own car
+2,-687.6199709542321,35,secondary education,1,civil partnership,1,F,employee,0,276125.1580926194,transactions with my real estate
+-1,-3575.215640973632,33,secondary education,1,married,0,F,employee,0,128362.02387862888,university education
+0,-5560.296257851446,46,secondary education,1,divorced,3,F,employee,0,128887.36326841082,buying a second-hand car
+0,380397.9213861369,67,masters degree,0,unmarried,4,M,retiree,0,131140.98672655993,car
+0,-314.6880078968578,50,secondary education,1,married,0,M,partner,0,97926.16209349764,property renovation
+0,-193.1517850817664,30,secondary education,1,unmarried,4,M,employee,1,101516.60497511088,transactions with my real estate
+0,-5438.511046883361,37,secondary education,1,divorced,3,M,partner,0,405163.0568259045,second-hand car purchase
+0,351522.2948210941,59,secondary education,1,widow / widower,2,F,retiree,0,199628.66441045603,buying my own car
+0,391397.39234677225,58,secondary education,1,married,0,F,retiree,0,82710.21467998589,transactions with the residential real estate
+1,-398.3021596244738,27,secondary education,1,married,0,F,partner,0,126895.72497223305,real estate transactions
+0,360438.70597768633,58,secondary education,1,married,0,F,retiree,0,61949.25544485074,transactions with the residential real estate
+0,-1581.5515089437972,21,BACHELOR DEGREE,2,unmarried,4,M,employee,0,149830.9909278258,purchase of a car
+1,-2002.896895034585,33,masters degree,0,civil partnership,1,F,partner,0,138194.20606002648,having a wedding
+0,-1591.9725831158069,40,secondary education,1,married,0,F,employee,0,92401.90080643764,buying property for renting out
+0,-1590.7477503836733,29,secondary education,1,married,0,F,employee,0,99760.5120529577,real estate transactions
+0,-382.3678243981717,47,secondary education,1,married,0,F,partner,0,149106.73265346256,to own a car
+0,330102.8905437349,65,primary education,3,civil partnership,1,F,retiree,0,66441.02051829504,purchase of the house
+1,-381.311169505672,41,masters degree,0,married,0,M,partner,0,349024.13523530663,purchase of a car
+0,-3673.536847424376,46,secondary education,1,civil partnership,1,M,partner,0,135181.8782021406,having a wedding
+0,391040.2519317743,60,Secondary Education,1,married,0,F,retiree,0,57702.49926381449,property
+1,-5720.093576165763,41,secondary education,1,civil partnership,1,M,partner,0,119090.1162220101,wedding ceremony
+0,-1176.2040826438115,29,secondary education,1,married,0,F,employee,0,210258.23594580832,building a property
+0,-2395.135144992085,55,secondary education,1,married,0,F,employee,0,146318.60337914992,going to university
+0,,57,secondary education,1,civil partnership,1,M,retiree,0,,transactions with the residential real estate
+0,-10779.489256970948,56,masters degree,0,married,0,F,employee,0,243726.8051343232,purchase of a car
+2,-1109.4319723367496,33,secondary education,1,married,0,M,employee,0,288716.01847378665,going to university
+0,-4557.489130354708,42,masters degree,0,married,0,F,civil servant,1,158683.08551204036,supplementary education
+1,-1366.9746123686662,36,secondary education,1,unmarried,4,M,employee,0,105915.67529559691,property
+3,-846.6845766177418,46,masters degree,0,unmarried,4,F,employee,0,133913.66826147956,education
+0,,31,secondary education,1,married,0,F,employee,0,,car
+1,-757.3131434469664,37,secondary education,1,married,0,F,partner,0,111997.9507458382,to own a car
+1,-5779.213860792645,45,secondary education,1,married,0,F,employee,0,189735.1606622777,construction of own property
+1,,56,Masters Degree,0,divorced,3,F,employee,0,,profile education
+0,,66,secondary education,1,widow / widower,2,F,employee,0,,construction of own property
+1,-272.564330718806,32,secondary education,1,married,0,M,employee,0,161128.08648462547,property renovation
+0,,64,Secondary Education,1,married,0,F,retiree,0,,real estate transactions
+0,-10160.018063824602,45,secondary education,1,civil partnership,1,M,employee,0,76869.27292323108,to have a wedding
+0,-170.96968751597586,49,SECONDARY EDUCATION,1,married,0,M,partner,0,340090.7243459228,purchase of the house for my family
+2,,30,secondary education,1,married,0,F,employee,0,,university education
+0,-195.8718226785417,45,Secondary Education,1,married,0,M,employee,0,122226.41088510097,to get asupplementary education
+2,-1813.7996196770127,30,masters degree,0,married,0,M,employee,0,152014.67427060654,car
+1,-216.0211993180928,34,masters degree,0,civil partnership,1,F,partner,0,105678.96447548462,property renovation
+1,357913.7218205951,41,SECONDARY EDUCATION,1,civil partnership,1,F,retiree,0,356311.0455162312,building a real estate
+2,-5181.722842965532,34,secondary education,1,married,0,M,employee,0,130483.62552424733,cars
+0,-3442.2988636410805,38,secondary education,1,unmarried,4,M,partner,0,255223.5780312769,getting higher education
+0,356427.02858539217,55,masters degree,0,married,0,F,retiree,0,206315.3220438594,purchase of the house
+2,-490.4691357203279,30,secondary education,1,civil partnership,1,M,employee,1,102648.04103880364,having a wedding
+0,-5958.3903865616285,57,masters degree,0,married,0,F,employee,0,77913.77507661389,car
+0,-1437.387633464832,41,secondary education,1,married,0,F,civil servant,0,110964.80068725892,university education
+0,-7601.6369869729615,39,secondary education,1,unmarried,4,F,partner,0,174227.2397182667,housing
+0,-456.9401051466722,40,secondary education,1,married,0,F,partner,0,315427.69667755783,education
+0,-142.43483260810626,51,SECONDARY EDUCATION,1,married,0,F,employee,0,88945.84359491311,buy commercial real estate
+0,-8923.709842665661,42,secondary education,1,unmarried,4,F,employee,1,107988.79516495504,purchase of a car
+0,371306.32359132735,57,secondary education,1,married,0,F,retiree,0,221356.99264329395,to become educated
+2,,29,secondary education,1,civil partnership,1,F,civil servant,0,,having a wedding
+2,-228.4041070787501,48,masters degree,0,civil partnership,1,M,partner,1,522866.726679062,purchase of the house for my family
+0,,54,masters degree,0,married,0,F,partner,0,,education
+0,-670.9371109138602,30,secondary education,1,unmarried,4,M,employee,0,129040.22116734325,building a property
+1,-1986.789305826288,30,secondary education,1,married,0,M,employee,1,338181.0410648601,getting higher education
+0,-644.3595221652336,48,secondary education,1,married,0,M,employee,0,216989.3085154977,getting higher education
+0,-2645.0495919786445,55,secondary education,1,married,0,F,partner,0,125470.50133455472,buying a second-hand car
+0,344753.05628458346,69,secondary education,1,married,0,F,retiree,0,94230.09903195644,property
+0,-4139.519672714922,39,masters degree,0,divorced,3,M,partner,0,265759.106893861,supplementary education
+0,-419.5786461562668,28,masters degree,0,unmarried,4,F,partner,0,117053.05305440749,buy residential real estate
+0,,49,secondary education,1,unmarried,4,F,employee,0,,buying property for renting out
+1,-565.264343976418,26,secondary education,1,married,0,F,employee,0,102377.04415021389,university education
+1,-2053.5843313403584,28,secondary education,1,married,0,M,employee,0,104464.3814983409,getting higher education
+0,329213.3169602077,58,secondary education,1,widow / widower,2,F,retiree,0,54221.91300278374,buy real estate
+0,329684.7563426098,65,secondary education,1,civil partnership,1,F,retiree,0,221898.6521806185,wedding ceremony
+0,-1489.9396547093454,43,secondary education,1,married,0,F,employee,0,143122.4593009527,housing transactions
+0,-1178.820366943234,55,masters degree,0,civil partnership,1,F,partner,0,254969.83477461195,to have a wedding
+0,331546.06051271764,60,secondary education,1,married,0,F,retiree,0,95052.5436585029,building a property
+0,345955.4754213549,68,secondary education,1,widow / widower,2,F,retiree,0,138792.92290217394,transactions with the residential real estate
+0,375719.4349113029,59,secondary education,1,married,0,F,retiree,0,148019.26161682885,building a real estate
+0,-12587.262898873396,52,masters degree,0,married,0,M,employee,0,110333.10581163126,building a property
+0,-4447.791881267402,36,masters degree,0,married,0,F,partner,0,235908.1434032017,to get asupplementary education
+0,-5286.369896641726,41,secondary education,1,married,0,F,partner,0,100223.6110704742,car purchase
+1,-1258.7543395734338,30,secondary education,1,unmarried,4,M,employee,0,183204.57517428463,property renovation
+0,-4483.011765605496,45,secondary education,1,divorced,3,F,partner,0,93305.94311112374,university education
+1,-720.8051994059339,28,masters degree,0,civil partnership,1,F,employee,0,95325.0519581541,second-hand car purchase
+0,-808.5849313373401,55,secondary education,1,married,0,F,partner,0,89180.24808845668,buy commercial real estate
+1,-821.499766446682,43,masters degree,0,married,0,F,employee,0,186949.641633441,buy real estate
+2,-945.9147758939196,37,secondary education,1,civil partnership,1,F,employee,0,187616.1916458397,having a wedding
+1,-1558.557184833962,54,secondary education,1,unmarried,4,F,employee,0,84080.53181401483,supplementary education
+3,-585.8754432953615,31,MASTERS DEGREE,0,civil partnership,1,F,employee,0,257091.83836139672,having a wedding
+2,-3008.989198035797,41,secondary education,1,married,0,M,employee,0,150317.84730353946,going to university
+1,-3702.968458418515,39,secondary education,1,married,0,F,partner,0,130427.03380093312,purchase of a car
+0,,65,secondary education,1,married,0,F,retiree,0,,buying my own car
+1,-1115.4780945195178,35,masters degree,0,civil partnership,1,M,employee,0,149878.63753234484,wedding ceremony
+0,392637.8131295289,60,secondary education,1,married,0,F,retiree,0,143171.84107428056,construction of own property
+1,-1692.667171807818,40,Secondary Education,1,married,0,M,employee,0,94482.66457506883,car
+1,-4379.5301583868095,42,secondary education,1,civil partnership,1,F,partner,0,163330.75353016998,to become educated
+1,,28,secondary education,1,unmarried,4,F,employee,0,,cars
+1,-1090.502545683441,33,masters degree,0,married,0,M,partner,0,267032.973274061,buying my own car
+1,-491.1591787926554,38,masters degree,0,married,0,F,partner,0,131891.45036572588,car purchase
+0,-232.392171911124,21,masters degree,0,unmarried,4,M,employee,0,147812.78808482803,car
+0,,55,secondary education,1,widow / widower,2,F,retiree,0,,second-hand car purchase
+0,375008.0894135953,61,secondary education,1,married,0,F,retiree,0,33343.83747530632,to become educated
+0,377888.8564274879,60,secondary education,1,civil partnership,1,F,retiree,0,77704.86848379478,to have a wedding
+0,-1737.7420237118188,42,secondary education,1,civil partnership,1,F,employee,0,112989.75884395228,to have a wedding
+0,-900.2775865786148,54,masters degree,0,married,0,F,partner,0,142081.78474312855,education
+1,-4691.034683400655,40,masters degree,0,civil partnership,1,F,employee,0,117124.2821807153,having a wedding
+2,-5580.961885836367,44,secondary education,1,married,0,M,employee,0,76393.14075125231,to own a car
+0,,38,masters degree,0,unmarried,4,M,partner,0,,real estate transactions
+0,-1070.7906839436694,48,masters degree,0,married,0,M,partner,0,193971.0314550784,transactions with the residential real estate
+0,-795.9801510213715,41,PRIMARY EDUCATION,3,married,0,M,employee,0,236593.6439045063,housing transactions
+0,-4590.601152877141,45,SECONDARY EDUCATION,1,married,0,F,employee,0,132074.31027050017,to own a car
+-1,-2809.6932000390834,34,secondary education,1,married,0,F,employee,0,182543.8901267973,buying a second-hand car
+1,-1275.6727194230025,36,masters degree,0,married,0,M,employee,0,145704.90035477642,buying a second-hand car
+0,-1013.7290800490769,29,secondary education,1,married,0,M,employee,0,186348.1652807985,purchase of my own house
+0,-4837.973361646407,66,masters degree,0,married,0,M,civil servant,0,199903.8524979864,purchase of my own house
+0,-1963.897150617444,32,secondary education,1,unmarried,4,M,partner,0,158685.04528839968,buying a second-hand car
+2,-793.5247580845689,47,SECONDARY EDUCATION,1,married,0,M,employee,0,130216.559625208,property
+0,-2714.112649198497,53,masters degree,0,widow / widower,2,F,civil servant,0,373989.88632439147,to buy a car
+1,-820.6773685061404,23,secondary education,1,civil partnership,1,F,partner,0,122202.52827677086,transactions with the residential real estate
+0,-231.1092431825352,30,secondary education,1,unmarried,4,M,partner,1,129237.22044446452,to get asupplementary education
+0,-1950.657029043964,45,secondary education,1,civil partnership,1,F,civil servant,0,197193.3330508855,to become educated
+1,379811.8382910395,57,secondary education,1,widow / widower,2,F,retiree,0,228300.32650032308,to buy a car
+1,-104.56956581307873,26,masters degree,0,unmarried,4,F,employee,0,106583.9600942344,getting an education
+0,,50,Secondary Education,1,married,0,F,retiree,0,,buying property for renting out
+1,-3611.670311085897,35,masters degree,0,married,0,M,civil servant,0,230476.04471005284,housing transactions
