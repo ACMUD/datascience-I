@@ -54,7 +54,7 @@ fig.update_layout(
 # Mostrar la gráfica
 fig.show()
 ```
-![alt text](img\image2.png)
+![alt text](img/image2.png)
 
 
 ## Grafica de lineas
@@ -66,8 +66,8 @@ Lo usamos cuando queremos mostrar el cambio de una variable (en el eje vertical)
 - Procurar no poner mas de 5 lineas, y que estas esten separadas
 -  EN ALGUNOS CASOS, CORTAR AXIS
 
-![alt text](img\image3.png)
-![alt text](img\image4.png)
+![alt text](img/image3.png)
+![alt text](img/image4.png)
 
 
 ```python
@@ -90,7 +90,7 @@ ax.set_ylabel("Y")
 plt.show()
 ```
 
-![alt text](img\image5.png)
+![alt text](img/image5.png)
 
 ```python
 # Crear la figura
@@ -106,4 +106,4 @@ fig.update_layout(title="Gráfica de Líneas", xaxis_title="X", yaxis_title="Y")
 fig.show()
 ```
 
-![alt text](img\image6.png)
+![alt text](img/image6.png)
