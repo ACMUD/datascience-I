@@ -27,7 +27,7 @@ ax.bar(x, y)
 plt.show()
 ```
 
-![alt text](img\image.png)
+![alt text](img/image.png)
 
 
 ```python
